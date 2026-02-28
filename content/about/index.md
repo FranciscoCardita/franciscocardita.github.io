@@ -1,6 +1,6 @@
 ---
-title: 'About me'
-date: 2024-06-30T01:33:48+01:00
+title: 'About'
+date: 2026-02-28T15:41:16Z
 draft: false
 categories: ['About']
 
